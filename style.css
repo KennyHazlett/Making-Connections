@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #f3f3f3;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+}
+.upperbox{
+    display: inline-block;
+    vertical-align:top;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.bottom{
+    display: inline-block;
+    vertical-align: bottom;  
+}
+#dude{
+    margin-top: 20px;
+    margin-left: 185px;
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+}
+.yeah {
+    width: 100%;
+    background-color: #fff;
+    border: 2px solid #999;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    overflow: hidden;
+}
+.mopar {
+    background-color: #17a2b8;
+    height: 125px;
+    margin-bottom: 90px;
+}
+.autobody {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.autobody h1, 
+.autobody h2,
+.autobody h3,
+.autobody p {
+    margin: 20px 0px;
+}
+.thanos {
+    border-radius: 50%;
+    background-color: #fff;
+    height: 125px;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.deathcon1 {
+    height: 20px;
+}
+a {
+    color: #3a81e6;
+}
+.nav{
+    background-color: #000000;
+    color: #ffffff;
+    height:80px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: auto;
+}
+.nav-links{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-around;
+}
+.nav a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.nav-title {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.btn{
+    height: 35px;
+    width: 100px;
+    background-color: #17a2b8;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    margin-left: 100px;
+}
+.educationbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.content{
+    width: 100%;
+    background-color: #fff;
+    border: 2px solid #999;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    overflow: hidden;
+    display: inline-block;
+}
+.wow{
+    background-color: #333;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 120px;
+    display:inline-block;
+}   
+.wow p,
+.wow h5,
+.wow h4,
+.wow h3{
+    margin: 15px;
+}
+.wow h4{
+    color: white;
+}
+.wow p{
+    color: #858585;
+}
+#connectionrequests, #yourconnections{
+    width: 250px;
+    justify-content: space-between;
+    align-items: center;
+}
+#viewmore{
+    border-top: 2px solid #999;
+    width: 250px;
+}
+.content{
+    width: 100%;
+    background-color: #fff;
+    border: 2px solid #999;
+    margin-bottom: 20px;
+
+    border-radius: 5px;
+    font-size: 1.2rem;
+    overflow: hidden;
+    display: inline-block;
+}
+.wow1{
+    background-color: #333;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 120px;
+    display:inline-block;
+}
+.wow1 h4{
+    color: white;
+}
+#letssee{
+    color: black;
+}
+#water{
+    margin-left: 185px;
+    width: 361px;
+}
+span{
+    border-radius: 50%;
+    background-color: #cccccc;
+    width: auto;
+    height: auto;
+    border: solid #cccccc;
+    text-align: center;
+    color: black;
+    display: inline-block;
+    margin-right: 5px;
+}
+.checkx{
+    height: 20px;
+}
+#checkmark{
+    margin-left: 65px;
+}
